@@ -1,0 +1,8 @@
+build
+coverage
+
+**/.next
+**/.git
+**/.svn
+**/.hg
+**/node_modules
